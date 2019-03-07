@@ -1,0 +1,61 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  box-sizing: border-box;
+  background-color: #101010;
+  font-family: 'Raleway', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.alltype {
+  text-align: center;
+}
+
+.typeone {
+  color: #00e6a8;
+}
+
+.typetwo {
+  color: #00e6a8;
+  font-family: 'Lato', sans-serif;
+}
+
+.typethree {
+  color: #00e6a8;
+}
+
+.typefour {
+  color: #00e6a8;
+  font-weight: 300;
+}
+
+.typefive {
+  color: #00e6a8;
+  font-weight: 600;
+  border-style: solid;
+  border-width:
+  border-color: #00e6a8
+}
+
+h2 {
+  font-weight: 900;
+}
+
+.ha1 {
+  padding-right: 3em;
+}
+
+.ha3 {
+  padding-left: 3em;
+}
