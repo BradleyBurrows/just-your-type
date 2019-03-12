@@ -17,7 +17,7 @@ html {
 
 .typetwo {
   color: #00e6a8;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   display: inline-block;
   text-align: center;
 }
@@ -82,7 +82,7 @@ h2 {
 
 }
 
-  @media only screen and (min-width: 60em) {
+@media only screen and (min-width: 60em) {
 
   html {
     font-size: 140%;
@@ -110,7 +110,7 @@ h2 {
     background-color: #00e6a8;
     margin-left: 1.5em;
     transform: translateY(-775px);
-}
+  }
 
   .rectangle2 {
     height: 140px;
