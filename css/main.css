@@ -1,6 +1,6 @@
 html {
   background-color: #101010;
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
 }
 
 .alltype {
@@ -17,7 +17,7 @@ html {
 
 .typetwo {
   color: #00e6a8;
-  font-family: "Lato", sans-serif;
+  font-family: Lato, sans-serif;
   display: inline-block;
   text-align: center;
 }
